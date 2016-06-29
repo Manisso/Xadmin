@@ -1,19 +1,20 @@
 # Xadmin
-~ ADMIN Panel Finder By Ⓜ Ⓐ Ⓝ Ⓘ Ⓢ Ⓢ Ⓞ  ☪ ~
 Description:
-Advanced Admin Panel Finder Powered By Manisso 
-To Use The Xadmin No Installed Version You just have To tape in terminal 
+Xadmin is a simple script in perl to find Amin Panel Of Web site
+# How to Dowload
+Open your terminal and type the following commands:
 
-root@root$:perl Xadmin.pl
+[✓] git clone https://github.com/Manisso/Xadmin.git
 
+[✓] cd Xadmin
 
-~ ADMIN Panel Finder By Ⓜ Ⓐ Ⓝ Ⓘ Ⓢ Ⓢ Ⓞ  ☪ ~
+[◉] sudo bash install.sh
 
-        
+#How to use
+After installation you can use the following commands:
 
- #Float like a butterfly, sting like a bee.    
-                                               
- say Bismillah And Add Website Target . ツ 
-Ex: www.Israel.com or www.Isreal.com/path
+[✔] Type on terminal: xadmin
 
- -> 
+[✔] Type your target
+
+[◉] Ex: www.Israel.com or www.Isreal.com/path
